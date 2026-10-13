@@ -1,3 +1,6 @@
+import json
+
+class Vazifa:
 def menyu():
     print("""
 === 📝 VAZIFALAR ===
